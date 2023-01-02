@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>409785424746-sr5400fek8ek3evkdbb9r8urgfsv0ptk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.409785424746-sr5400fek8ek3evkdbb9r8urgfsv0ptk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnb5v7uKJrDZmSksLtGufG8lrN99TbQdQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>409785424746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.twitchApp</string>
+	<key>PROJECT_ID</key>
+	<string>twitch-app-18239</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitch-app-18239.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:409785424746:ios:1d5e8cfffb8891e1762313</string>
+</dict>
+</plist>
